@@ -19,6 +19,7 @@ public class ReviewingBasics
         
         System.out.println(f==f3);
         
+        String s;
     }
 
 }
